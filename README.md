@@ -1,13 +1,19 @@
 ## 👋 Selamat Datang
+
 Repository ini dibuat guna menyelesaikan tugas web coder mengenai layout dan menambahkan sedikir responsive design pada website
+
 > Tech : HTML & CSS
 
-## 💻  PC VIEW
-![PC](./images/screencapture-127-0-0-1-5500-2024-11-09-17_10_05.png)
 
+## 💻 PC VIEW
+<p align="center">
+<img src="images/pc.png" width="350" title="hover text">
+</p>
 ## 💻 Tablet View
-![Tablet](./images/iPad-PRO-11-localhost.png)
-
-
+<p align="center">
+<img src="images/tablet.png" width="350" title="hover text">
+</p>
 ## 📱 Phone View
-![Handphone](./images/iPhone-13-PRO-localhost.png)
+<p align="center">
+<img src="images/phone.png" width="350" title="hover text">
+</p>
